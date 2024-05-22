@@ -35,9 +35,9 @@ public class GuiCollection2 extends javax.swing.JFrame {
         dlm.addElement(namaItem);
     }
         
-        private void updateJumlahDataTersimpan(){
-            jLabelJumlah.setText(
-                "Data tersimpan = " + items.size());
+    private void updateJumlahDataTersimpan(){
+        jLabelJumlah.setText(
+            "Data tersimpan = " + items.size());
     }
  
 
